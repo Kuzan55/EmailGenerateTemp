@@ -1,17 +1,23 @@
 # EmailGenerateTemp
 Install Package:
+```
 pkg install git
-pkg install python3 
+pkg install python3
+```
 
 Run:
+```
 cd EmailGenerateTemp 
 python3 temp_email.py
+```
 
 python:
+```
 import requests
 import time
 import random
 import string
+```
 
 ✅ Key Features:
 1. **Uses 1secMail API** which is currently working
