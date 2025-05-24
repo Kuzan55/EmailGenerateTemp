@@ -2,6 +2,7 @@
 Install Package:
 ```
 pkg install git
+git clone https://github.com/Kuzan55/EmailGenerateTemp.git
 pkg install python3
 ```
 
